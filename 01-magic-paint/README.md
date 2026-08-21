@@ -1,4 +1,5 @@
 # Magic Paint 🎨
+![Magic Paint demo](preview.gif)
 
 An interactive generative drawing experiment built with p5.js.
 
