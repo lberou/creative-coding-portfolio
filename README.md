@@ -19,7 +19,9 @@ An interactive generative drawing experiment where mouse movement controls color
 - Trail effect
 - Keyboard controls
 
-[View live sketch in p5.js](https://editor.p5js.org/lberou/sketches/ZR102xwuB)
+[▶ Run Magic Paint](https://editor.p5js.org/lberou/full/ZR102xwuB)
+
+[View source in p5.js Editor](https://editor.p5js.org/lberou/sketches/ZR102xwuB)
 
 ---
 
