@@ -9,7 +9,9 @@ const STROKE_WEIGHT = 3;
 const PUPIL_SIZE = 4;
 
 function setup() {
-  createCanvas(500, 500);
+  const canvas = createCanvas(500, 500);
+  canvas.parent("sketch-container");
+
   randomizeCreature();
 }
 
