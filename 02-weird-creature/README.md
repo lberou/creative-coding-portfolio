@@ -1,5 +1,7 @@
 # Weird Creature 👾
 
+![Weird Creature demo](preview.gif)
+
 An interactive creature generator built with p5.js.
 
 Each click creates a new randomized creature with different body proportions, colors, eye sizes, mouth width and antenna traits. The eyes follow the mouse, while the mouth changes expression based on vertical mouse movement.
