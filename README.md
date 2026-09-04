@@ -34,3 +34,23 @@ An interactive creature generator where each click creates a new randomized char
 - Object-based state
 
 [▶ Play Weird Creature](https://lberou.github.io/creative-coding-portfolio/02-weird-creature/)
+
+---
+
+### 03 — Particle Playground ✨
+
+![Particle Playground demo](03-particle-playground/preview.gif)
+
+An interactive particle system where particles respond to mouse attraction and repulsion, bounce off boundaries and change brightness based on their speed.
+
+**Features**
+- Mouse attraction
+- Click-and-hold repulsion
+- Independent particle movement
+- Velocity and acceleration
+- Speed-based brightness
+- Boundary collisions
+- Subtle motion trails
+- Modular particle behavior
+
+[▶ Play Particle Playground](https://lberou.github.io/creative-coding-portfolio/03-particle-playground/)
