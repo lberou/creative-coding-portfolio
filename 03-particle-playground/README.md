@@ -1,5 +1,7 @@
 # Particle Playground ✨
 
+![Particle Playground demo](preview.gif)
+
 An interactive particle system built with p5.js.
 
 Particles move independently, bounce on the canvas boundaries and react to the mouse as an attraction or repulsion force. Their brightness changes based on speed, while subtle trails create a more fluid visual effect.
