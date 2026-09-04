@@ -9,9 +9,7 @@ const FORCE = 0.05;
 const MAX_SPEED = 5;
 
 function setup() {
-  const canvas = createCanvas(500, 500);
-  canvas.parent("sketch-container");
-
+  createCanvas(500, 500);
   noStroke();
 
   for (let i = 0; i < PARTICLE_COUNT; i++) {
